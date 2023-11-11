@@ -273,3 +273,5 @@ kikibt8.xyz
 
 #用户提交
 pglstatp-toutiao.com
+.*api.zhihu.com\/commercial_api.*
+.*tqt.weibo.cn\/api\/fortune\/decisionMaker.*
